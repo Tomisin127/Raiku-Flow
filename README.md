@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="Raiku-Flow-Figma-Representation" src="https://github.com/user-attachments/assets/b7afe101-8e9f-4e39-bdd8-c924ddf74df4" />
 # Raiku-Flow
 Zero-MEV, slot-guaranteed multi-DEX settlement, where execution timing is no longer a risk.
 # Raiku-Flow: Deterministic Cross-DEX Settlement Engine
