@@ -4,7 +4,7 @@ Zero-MEV, slot-guaranteed multi-DEX settlement, where execution timing is no lon
 # Raiku-Flow: Deterministic Cross-DEX Settlement Engine
 
 **Category:** Finance Applications  
-**Team:** Solo Submission – Concept & Design by [Paulraimi]  
+**Team:** Solo Submission – Concept & Design by [Paul Raimi and Njedika Cyril]  
 **Type:** Design Blueprint + Figma Prototype + Short Video Explanation
 
 
