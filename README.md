@@ -4,7 +4,7 @@ Zero-MEV, slot-guaranteed multi-DEX settlement, where execution timing is no lon
 # Raiku-Flow: Deterministic Cross-DEX Settlement Engine
 
 **Category:** Finance Applications  
-**Team:** Solo Submission – Concept & Design by [Paul Raimi and Njedika Cyril]  
+**Team:** Submission – Concept & Design by [Paul Raimi and Njedika Cyril]  
 **Type:** Design Blueprint + Figma Prototype + Short Video Explanation
 
 
@@ -19,7 +19,7 @@ It gives developers and institutions full control over transaction timing and or
 
 On current blockchains, transaction execution is uncertain. MEV bots exploit ordering, creating risk and inefficiency for both users and protocols.
 
-Solana’s speed helps — but without deterministic execution, timing remains probabilistic.
+Solana’s speed helps, but without deterministic execution, timing remains probabilistic.
 
 
 ## The Solution
